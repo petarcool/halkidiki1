@@ -3,3 +3,7 @@ nav {
   background-color:violet;
   margin:20px;
 }
+
+nav a img {
+  margin:25px;
+}
